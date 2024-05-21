@@ -1,3 +1,4 @@
+```
 Enter the number of lines: 6
            1
          2 1 2
@@ -14,3 +15,4 @@ Enter the number of lines: 6
            1   2   4   8   4   2   1
        1   2   4   8  16   8   4   2   1
    1   2   4   8  16  32  16   8   4   2   1
+```
